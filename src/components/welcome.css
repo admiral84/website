@@ -1,0 +1,45 @@
+.left{
+    display: flex;
+    align-items: center;
+
+}
+.search{
+    border-radius: 8%;
+    margin-left: 3px;
+    height: 20px;
+    border:solid black 1px
+}
+.search-icon{
+    border:solid black 1px;
+}
+.logo{
+    margin: 10px;
+    color: #0000FF;
+    font-size: 25px;
+    font-weight: bold;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    border-bottom: solid gray 1px;
+    align-items: center;
+}
+.right{
+    margin-right: 30px;
+}
+.signup{
+    margin: 10px;
+    
+   
+}
+.signin{
+    margin: 3px;
+
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
