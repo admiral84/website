@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admiral84/website.git/static/css/main.5178a32c.css",
+    "main.js": "/admiral84/website.git/static/js/main.fca45368.js",
+    "index.html": "/admiral84/website.git/index.html",
+    "main.5178a32c.css.map": "/admiral84/website.git/static/css/main.5178a32c.css.map",
+    "main.fca45368.js.map": "/admiral84/website.git/static/js/main.fca45368.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5178a32c.css",
+    "static/js/main.fca45368.js"
+  ]
+}
